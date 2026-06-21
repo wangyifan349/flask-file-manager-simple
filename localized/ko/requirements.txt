@@ -1,0 +1,5 @@
+Flask==3.0.3
+Werkzeug==3.0.3
+Flask-HTTPAuth==4.8.0
+charset-normalizer==3.3.2
+py7zr==0.21.1
