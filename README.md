@@ -110,8 +110,8 @@ Replace `en` with `ja`, `ko`, `es`, `de`, or `fr` as needed.
 Copy and run:
 
 ```bash
-git clone https://github.com/wangyifan349/flask_file_manager_simple
-cd flask_file_manager_simple
+git clone https://github.com/wangyifan349/flask-file-manager-simple
+cd flask-file-manager-simple
 pip install -r requirements.txt
 python flask_file_manager.py
 ```
@@ -202,3 +202,36 @@ Thanks to the open-source libraries and contributors that support this project, 
 - Bootstrap
 
 This project would not be possible without the Python, Flask, and broader open-source communities.
+
+
+## ☕ Buy Me a Coffee
+
+If this project helps you, please consider buying me a coffee. ☕
+
+I built this project with care, patience, and many late nights. Open-source software may look simple from the outside, but every feature, bug fix, and improvement takes real time and effort. ❤️
+
+Your support is never required, but it would be deeply appreciated. Thank you for your kindness and support. 🙏
+
+### ₿ Bitcoin (BTC)
+
+```text
+bc1qxqfhumpqtnxrznkx9r4xsp8m6zsedtgusjns7p
+```
+
+### ⟠ Ethereum (ETH)
+
+```text
+0x2d92f9e4d8ac7effa9cd7cd5eccd364cac7c201b
+```
+
+### 💵 USDT (ERC-20)
+
+```text
+0x2d92f9e4d8ac7effa9cd7cd5eccd364cac7c201b
+```
+
+### ◎ Solana (SOL)
+
+```text
+B7N4e3KG9zWQBwMrtydS1B9wVBp2w62fAdryZdxAMBiz
+```
